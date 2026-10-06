@@ -8,7 +8,10 @@ To add to that, I am an amateur, *or Jack*, in multiple programing languages:
 - Python
 - Lua
 - JavaScript
+- Java
+
+I am part of the KIPP King First Robotics Team (7245) as part of electrical.
 
 Diversity is the general *rule of thumb* I follow.
 
-<sub>Last Updated 1/1/26</sub>
+<sub>Last Updated 10/5/26</sub>
